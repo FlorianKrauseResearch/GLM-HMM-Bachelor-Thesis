@@ -68,7 +68,7 @@ mapping_dict = {
 
 
 # Set the parameters of the GLM-HMM
-num_states = [2]  # number of discrete states
+num_states = [2, 3, 4, 5, 6]  # number of discrete states
 obs_dim = 1  # number of observed dimensions
 num_categories = 3  # number of categories for output
 input_dim = 2  # input dimensions
