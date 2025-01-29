@@ -1,5 +1,5 @@
 ## Bachelor Thesis Code Repository ##
-This repository presents the code used in my bachelor thesis titled "Utilizing GLM-HMM Analysis of Behavioral Patterns to Identify Mental States in Mice Performing a Center-of-Mass Task".
+This repository presents the code used in my bachelor thesis titled "Utilizing GLM-HMM Analysis of Behavioral Patterns to Identify Mental States in Mice Performing a Visual Perception Task".
 The thesis was written under the supervision of Timo Stein, Umberto Olcese and with the support of Kengo Takahashi.
 
 ## Research ##
